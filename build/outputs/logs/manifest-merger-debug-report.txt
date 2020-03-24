@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c5b3463a03126f56c7e082f00fc4d7ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5118db34cfbd2235d967e008f29c918c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f6dea8ca1e3217ffdc570b6cf75fe240\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3b8ebee4ca16e88b0e27f8d53bd8133a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\050d3ef0c7610d8ee955bb579ee2ff0f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\60235bc088933353318565b7ed0e6005\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\55091b6a62fedb64082548bb50a9461b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\fe0808befd2203990c30d9b9d03322e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c7f1636be5455e1d3491669f8d67957a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\379df5785cce24e4c31d445c2ec31921\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b25137e912e29b29552db2a2c6b0973f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\20e139ba7b264b89888981625445a802\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\f0e984faed725e74398491119b3bedaf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0b08cd691f10b598861a7871ba426386\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a24668e3dcb57378b1f70fc847830e19\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d7c23588b5cc92cda93ece81fba566d2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\59f979672bbdbf6cea31d56f9085fb4f\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\5916371464d7d8a9e050fc17212fa883\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a8300b219dfaecedb2a70349d3c06251\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\54252318be6d450a227ecfd7da102e73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\e01337b633ab6a5316a904a393018053\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\541b8ef40c8e294f0812eefda4046c9c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\88f114da91027d3604b99ca94f05528f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\69c05cc2a9977370dc7c9959f6a26c06\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\bc922f8894c097632c693d398a593a07\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5de2cc728e4a9ebdfa15b880ad40af37\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\4a678ef16b43697d3dda665fa5a20ca4\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml
+		INJECTED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml
+		ADDED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml
+		ADDED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5118db34cfbd2235d967e008f29c918c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5118db34cfbd2235d967e008f29c918c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d7c23588b5cc92cda93ece81fba566d2\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d7c23588b5cc92cda93ece81fba566d2\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\59f979672bbdbf6cea31d56f9085fb4f\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\59f979672bbdbf6cea31d56f9085fb4f\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d7c23588b5cc92cda93ece81fba566d2\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.ivanalves.alcoolgasolina.MainActivity
+ADDED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml
+INJECTED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c5b3463a03126f56c7e082f00fc4d7ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c5b3463a03126f56c7e082f00fc4d7ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5118db34cfbd2235d967e008f29c918c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5118db34cfbd2235d967e008f29c918c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f6dea8ca1e3217ffdc570b6cf75fe240\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\f6dea8ca1e3217ffdc570b6cf75fe240\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3b8ebee4ca16e88b0e27f8d53bd8133a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3b8ebee4ca16e88b0e27f8d53bd8133a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\050d3ef0c7610d8ee955bb579ee2ff0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\050d3ef0c7610d8ee955bb579ee2ff0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\60235bc088933353318565b7ed0e6005\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\60235bc088933353318565b7ed0e6005\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\55091b6a62fedb64082548bb50a9461b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\55091b6a62fedb64082548bb50a9461b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\fe0808befd2203990c30d9b9d03322e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\fe0808befd2203990c30d9b9d03322e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c7f1636be5455e1d3491669f8d67957a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\c7f1636be5455e1d3491669f8d67957a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\379df5785cce24e4c31d445c2ec31921\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\379df5785cce24e4c31d445c2ec31921\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b25137e912e29b29552db2a2c6b0973f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b25137e912e29b29552db2a2c6b0973f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\20e139ba7b264b89888981625445a802\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\20e139ba7b264b89888981625445a802\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\f0e984faed725e74398491119b3bedaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\f0e984faed725e74398491119b3bedaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0b08cd691f10b598861a7871ba426386\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0b08cd691f10b598861a7871ba426386\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a24668e3dcb57378b1f70fc847830e19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\a24668e3dcb57378b1f70fc847830e19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d7c23588b5cc92cda93ece81fba566d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d7c23588b5cc92cda93ece81fba566d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\59f979672bbdbf6cea31d56f9085fb4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\59f979672bbdbf6cea31d56f9085fb4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\5916371464d7d8a9e050fc17212fa883\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\5916371464d7d8a9e050fc17212fa883\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a8300b219dfaecedb2a70349d3c06251\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a8300b219dfaecedb2a70349d3c06251\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\54252318be6d450a227ecfd7da102e73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\54252318be6d450a227ecfd7da102e73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\e01337b633ab6a5316a904a393018053\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\e01337b633ab6a5316a904a393018053\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\541b8ef40c8e294f0812eefda4046c9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\541b8ef40c8e294f0812eefda4046c9c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\88f114da91027d3604b99ca94f05528f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\88f114da91027d3604b99ca94f05528f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\69c05cc2a9977370dc7c9959f6a26c06\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\69c05cc2a9977370dc7c9959f6a26c06\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\bc922f8894c097632c693d398a593a07\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\bc922f8894c097632c693d398a593a07\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5de2cc728e4a9ebdfa15b880ad40af37\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5de2cc728e4a9ebdfa15b880ad40af37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\4a678ef16b43697d3dda665fa5a20ca4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\gabri\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\4a678ef16b43697d3dda665fa5a20ca4\AndroidManifest.xml:20:5-44
+INJECTED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml
+INJECTED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml
+		ADDED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml
+		INJECTED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml
+		ADDED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml
+		INJECTED from D:\aplicativos-android-master\Projetos\Alcool ou Gasolina\alcoolgasolina\app\src\main\AndroidManifest.xml

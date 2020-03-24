@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Mar 23 22:54:10 BRT 2020
+0.baseType=DIRECTORY
+0.base=D\:\\aplicativos-android-master\\Projetos\\Alcool ou Gasolina\\alcoolgasolina\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
